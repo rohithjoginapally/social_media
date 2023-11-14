@@ -1,1 +1,1 @@
-# walmart-frontend-assignment
+# social_media-frontend-assignment
